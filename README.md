@@ -3,7 +3,7 @@
 
 
 
-![logo](./Match-Tech%203.png "Match-Tech Logo")
+![logo](./Match-Tech.jpg)
 
 # Latest Release: v0.0.0.1 september 01, 2023
 
